@@ -31,5 +31,5 @@ npm install notipiejs
 
 
 ## Lisense 
-Knoldus Software LLP
+Knoldus Software LLP | 
 MIT License
