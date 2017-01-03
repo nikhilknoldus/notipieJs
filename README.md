@@ -28,3 +28,8 @@ npm install notipiejs
 
 ## Sample Output
 ![notipiejs](https://cloud.githubusercontent.com/assets/10805658/21602507/a744e2c6-d1ba-11e6-92bb-5839432fe82e.png)
+
+
+## Lisense 
+Knoldus Software LLP
+MIT License
