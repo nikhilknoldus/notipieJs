@@ -1,7 +1,8 @@
 
 <h1 align="center">notipieJs</h1>
 <div align="center">
- ![icon](https://cloud.githubusercontent.com/assets/10805658/21606317/89f0f3c6-d1d4-11e6-9999-7f23064e26d1.jpeg)
+ <img 
+     src="https://cloud.githubusercontent.com/assets/10805658/21606317/89f0f3c6-d1d4-11e6-9999-7f23064e26d1.jpeg">
 </div>
 <br><br>
 
