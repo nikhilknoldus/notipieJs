@@ -1,2 +1,2 @@
 # notipieJs
-easy notipie.js cute notifications for web applications only, 1.4kb for this magic
+ easy to use web application notifications using notipie.js, only 1.4kb for this magic. Save time and space. 
