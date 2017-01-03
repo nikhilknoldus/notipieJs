@@ -1,0 +1,53 @@
+/*		  Author: Nikhil Kumar
+          Company: Knoldus Software LLP
+          Year: 2017
+          copyright: Open Source
+*/
+
+/* notipie container */
+.notipie-container {
+    width: 269px;
+    height: 54px;
+    position: absolute;
+    top: 10px;
+    right: 11px;
+    margin: 5px auto;
+    z-index: 9999;
+    opacity: 0.9;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px; 
+    box-shadow: 0px 0px 5px 1px;
+}
+
+/* notipie messages */
+.notipie-container .notipie {
+  text-align: center;
+  opacity: 1;
+  z-index: 10;
+  line-height: 3.2em;
+  /*border-radius: 2px;*/
+  font-size: 17px;
+  color: white;
+  margin-bottom: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Error :red*/
+.notipie.error {
+  background: #de4343;
+}
+/*success : green*/
+.notipie.success {
+  background: #008000;
+}
+
+/*info : skyblue*/
+.notipie.info{
+	background-color: #2F96B4;
+}
+
+/*warninig: yellow*/
+.notipie.warning{
+	background-color: #F89406;
+}
