@@ -2,7 +2,7 @@
 <h1 align="center">notipieJs</h1>
 <div align="center">
  <img 
-     src="https://cloud.githubusercontent.com/assets/10805658/21606317/89f0f3c6-d1d4-11e6-9999-7f23064e26d1.jpeg">
+     src="https://cloud.githubusercontent.com/assets/10805658/22961784/af7d8c06-f36e-11e6-9b45-1bcc77b6e61c.jpeg">
 </div>
 <br><br>
 
