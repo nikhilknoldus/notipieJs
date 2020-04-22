@@ -38,7 +38,5 @@ npm install notipiejs
 ### Messages are fading after given time (milliseconds)<br><br>
 ![notipiejsgif](https://cloud.githubusercontent.com/assets/10805658/21641029/11bb6f5a-d29f-11e6-82a3-5164d47bf71d.gif)
 
-<br>
-![notipiejs](https://cloud.githubusercontent.com/assets/10805658/21602507/a744e2c6-d1ba-11e6-92bb-5839432fe82e.png)
 
 ## Lisense MIT License
